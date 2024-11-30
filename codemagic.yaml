@@ -1,0 +1,9 @@
+workflows:
+  ios:
+    name: iOS Workflow
+    platform: ios
+    deployment_target: 13.0  # Minimum iOS version
+    flutter: stable
+    ios:
+      xcode: latest
+      cocoapods: true
