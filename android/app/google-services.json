@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308407259586",
+    "project_id": "words-news-dd60a",
+    "storage_bucket": "words-news-dd60a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308407259586:android:52f75e02a8be752ad4865b",
+        "android_client_info": {
+          "package_name": "com.pk.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wwL1I0QndzNbQxt4e1N-aSxFz7LiPu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
